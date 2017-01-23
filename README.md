@@ -1,2 +1,2 @@
 # Breakout
-A simple "break down a brick wall" game with some added twists.
+A simple "paddle ball" game with some added twists.
